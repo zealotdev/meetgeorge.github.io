@@ -634,7 +634,7 @@ footer .copyright {
   width: 30px;
   height: 30px;
   margin-bottom: 5px;
-  transition: height 0.7s ease-in, width 0.7s ease-in, margin-bottom 0.7s;
+  transition: height 0.5s ease-in, width 0.5s ease-in, margin-bottom 0.3s;
 }
 .gem-dsa35191>li>a>img:hover{
   width: 50px;
